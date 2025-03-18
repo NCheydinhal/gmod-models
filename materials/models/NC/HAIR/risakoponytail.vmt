@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NC/HAIR/risakoponytail"
+	"$bumpmap" "models/NC/HAIR/risakoponytail_n"
+	"$alphatest" 1
+	"$nocull" 1
+	$alphatestreference 0.1
+	$halflambert 1
+}
