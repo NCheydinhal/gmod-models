@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NC/RISAKO/risakobikinibottomy"
+	"$bumpmap" "models/NC/RISAKO/risakobikinibottom_n"
+	"$nocull" 1
+	$halflambert 1
+}
