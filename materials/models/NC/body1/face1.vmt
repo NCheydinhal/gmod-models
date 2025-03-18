@@ -11,5 +11,5 @@
 	"$phongfresnelranges" "[.5 .85 30]"
 	$halflambert 1
 	"$color2" "[.99 .93 .93]"
-						//"$color2" "[0.87 0.7 0.6]"
+
 }
