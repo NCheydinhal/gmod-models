@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NC/lash_down1"
+	"$nocull" 1
+	"$translucent" 1
+}

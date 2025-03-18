@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NC/body1/face1"
+	"$bumpmap" "models/NC/body1/face1_n"
+	"$nocull" 1
+	$halflambert 1
+	"$phong" 1
+	"$phongboost" "0.15"
+	"$phongexponent" 32
+	"$phongtint" "[.85 .85 1]"
+	"$phongfresnelranges" "[.5 .85 30]"
+	$halflambert 1
+	"$color2" "[.99 .93 .93]"
+						//"$color2" "[0.87 0.7 0.6]"
+}
