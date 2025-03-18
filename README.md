@@ -1,7 +1,8 @@
 # gmod-models
 
 Repository for my custom models on [deviantart.com/NCheydinhal](https://www.deviantart.com/ncheydinhal)
-<br><b>Nothing is for commericial use, do not upload to Workshop.</b></br>
+<br><b>Nothing is for commercial use, do not upload to Workshop.</b></br>
+You must be 18 or older to download.
 
 ### Installation
 
