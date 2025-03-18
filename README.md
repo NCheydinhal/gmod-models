@@ -23,3 +23,4 @@ Click the green <> Code button and then press Download Zip. Extract materials an
 - XPS community on Deviantart
 - Blender Forums
 
+https://github.com/NCheydinhal/gmod-models
