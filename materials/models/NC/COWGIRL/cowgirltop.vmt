@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NC/COWGIRL/cowgirltop"
+	"$bumpmap" "models/NC/COWGIRL/cowgirltop_n"
+	"$nocull" 1
+	$halflambert 1
+}
